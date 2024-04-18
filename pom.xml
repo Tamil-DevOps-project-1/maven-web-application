@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>canararelease</name>
-	      <url>http://172.31.21.51:9980/tamil/repository/canararelease/</url>
+	      <url>http://18.193.72.210:9980/tamil/repository/canaraRelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>canara-snapshot</name>
-	      <url>http://172.31.21.51:9980/tamil/repository/canarabank-snapshot/</url>
+	      <url>http://18.193.72.210:9980/tamil/repository/canaraSnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
